@@ -1,8 +1,7 @@
 {
   "name": "marketing_website",
   "version": "1.0.0",
-  "description": "a fictional website for a marketing company",
-  "main": "index.html",
+  "main": "script.js",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
@@ -12,12 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/SovietBeatle/marketing_website.git"
   },
-  "author": "Kolby Ellis",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SovietBeatle/marketing_website/issues"
   },
   "homepage": "https://github.com/SovietBeatle/marketing_website#readme",
+  "description": "",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
